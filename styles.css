@@ -42,13 +42,13 @@ h2 {
     unicode-bidi: isolate;
 } 
 
-.Img2, .Img3, .Img4 {
+.img2, .img3, .img4 {
     align-items: left;
 }
 
 
 
-#brush {
+#Brush {
     display: block;
     background-color: mediumspringgreen;
     font-family: Helvetica;
@@ -95,11 +95,11 @@ p {
     font-weight: bold;
 }
 
-#frame {
+#Frame {
     background-color: lightcoral;
 }
 
-#paint {
+#Paint {
     background-color: skyblue;
 }
 
@@ -107,12 +107,4 @@ p {
     color: black;
     font-weight: ;
     text-align: left;
-}
-
-.PFrame {
-
-}
-
-.PP {
-
 }
